@@ -1,10 +1,12 @@
-# Single Responsibility Principle (SRP)
+# SOLID Principles in Go
 
-**Definition:** A class or module should have only one reason to change.
+This repository demonstrates the SOLID principles with examples written in Go.
 
-**Example:** FileLogger is responsible only for logging messages.
+## Principles
+- **SRP:** Single Responsibility Principle
+- **OCP:** Open/Closed Principle
+- **LSP:** Liskov Substitution Principle
+- **ISP:** Interface Segregation Principle
+- **DIP:** Dependency Inversion Principle
 
-**Run the Example:**
-```bash
-go run main.go
-# solid-principles-go
+Each principle has its own folder with code examples and explanations.
